@@ -1,0 +1,4 @@
+baseURL = 'https://blogdev.djbrown1980.repl.co'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-terminal'
