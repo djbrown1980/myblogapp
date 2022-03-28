@@ -9,5 +9,5 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
-darft = true
+draft = true
 +++
